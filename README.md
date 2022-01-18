@@ -18,7 +18,7 @@
 
 <Details> 
 <summary> Graph Class</summary>
-
+    ```java
     public class Graph {
         Node nodeListHead;
         Node nodeListEnd;
@@ -316,6 +316,7 @@
 
         }
     }
+    ```                                
 </Details>
 
 
