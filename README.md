@@ -10,7 +10,7 @@
 ---
 ## Example
 
-![img.png](https://github.com/jyeung205/MA407-Algorithsm-And-Computation/png/java Tree 20 3-1.png)
+![img.png](https://github.com/jyeung205/MA407-Algorithms-And-Computation/blob/main/png/java%20Tree%2020%203-1.png)
 
 ---
 
